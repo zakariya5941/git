@@ -5,7 +5,7 @@ abstract class parent
     abstract void display();
     parent()
     {
-        System.out.println("Parent constructor");
+        System.out.println("baap constructor");
         
     }
     
